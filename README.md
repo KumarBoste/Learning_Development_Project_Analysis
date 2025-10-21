@@ -1,5 +1,5 @@
 # Learning & Development Project Analysis
-L&amp;D Analytics &amp; ROI Optimization Project: Case Study
+**L&amp;D Analytics &amp; ROI Optimization Project** : Case Study
 
 
 ![L7D logo](https://github.com/KumarBoste/Learning_Development_Project_Analysis/blob/main/L%26D%20Logo.png)
