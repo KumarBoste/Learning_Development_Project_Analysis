@@ -38,3 +38,28 @@ L&D departments often struggle to:
 ### ROI Trends
 - Average ROI across all programs: ~6.5%
 - Top-performing programs (e.g., Leadership 101, Advanced Finance) deliver >10% ROI.
+
+## SWOT Analysis
+| Strengths | Weaknesses |
+|-----------|------------|
+|Strong data-driven structure for tracking L&D metrics.|ROI varies widely across departments.|
+|High engagement and feedback scores indicate learner satisfaction.|Instructor quality inconsistency in certain programs.|
+|Clear link between performance gain and ROI.|Limited time-series tracking of post-training performance.|
+
+| Opportunities |	Threats |
+|---------------|---------|
+|Use predictive analytics to forecast ROI before rollout.|Budget cuts could impact training quality.|
+|Standardize high-performing delivery modes and instructors.|High attrition may reduce long-term L&D ROI realization.|
+
+## Conclusion & Recommendations
+### Conclusion:
+- Training programs positively impact employee performance and ROI.
+- Departments with strategic budget planning and effective delivery modes outperform others.
+- ROI can be maximized by focusing on program quality, delivery efficiency, and instructor impact.
+
+### Recommendations:
+- Prioritize high-ROI programs for expansion; phase out low-performing ones.
+- Correlate engagement and performance metrics to design personalized training.
+- Reinvest part of high ROI into continuous L&D innovation.
+- Build predictive Power BI models to forecast training ROI.
+- Use department-level dashboards for budget accountability and optimization.
