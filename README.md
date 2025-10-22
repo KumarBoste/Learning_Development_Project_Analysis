@@ -24,3 +24,17 @@ L&D departments often struggle to:
 2. How does training effectiveness (PerformanceGain) vary by program, delivery mode, and difficulty?
 3. Does employee engagement correlate with post-training performance?
 4. Are we investing the L&D budget efficiently across roles and departments?
+
+## Insights & Analysis
+### Department-Level
+- Departments like Finance and Operations show higher average ROI (>8%) with efficient budget utilization.
+- Marketing and HR departments have lower ROI but higher engagement scores, suggesting need for targeted interventions.
+### Program-Level
+- Low difficulty programs with offline or hybrid delivery achieved better feedback scores (≥9) and higher PerformanceGain.
+- Programs with InstructorRating >4.2 are strongly correlated with ROI improvement (r ≈ 0.7).
+### Employee & Training Metrics
+- Employees with >2 previous trainings show 15–20% higher post-training performance.
+- Tenure <2 years employees benefit the most in PerformanceGain, reflecting value in onboarding training.
+### ROI Trends
+- Average ROI across all programs: ~6.5%
+- Top-performing programs (e.g., Leadership 101, Advanced Finance) deliver >10% ROI.
