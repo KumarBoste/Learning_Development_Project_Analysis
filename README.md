@@ -16,7 +16,7 @@ It aims to transform L&D from a perceived cost center into a strategic investmen
 ## Dashboard
 ![L&D Dashboard](https://github.com/KumarBoste/Learning_Development_Project_Analysis/blob/main/PowerBI%20Dashboard/L%26D%20Dashboard%20SS.png)
 
-## 2. Business Problem
+## Business Problem
 **L&D departments often struggle to:**
 - Prove tangible ROI of training programs.
 - Link training outcomes to employee performance improvement.
