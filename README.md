@@ -13,6 +13,9 @@ It aims to transform L&D from a perceived cost center into a strategic investmen
 - Key Dimensions: Department, Role, ProgramName, DeliveryMode
 - Key Metrics: Salary, TrainingHours, PerformanceGain, ROI, EngagementScore, InstructorRating
 
+## Dashboard
+![L&D Dashboard](https://github.com/KumarBoste/Learning_Development_Project_Analysis/blob/main/PowerBI%20Dashboard/L%26D%20Dashboard%20SS.png)
+
 ## 2. Business Problem
 **L&D departments often struggle to:**
 - Prove tangible ROI of training programs.
