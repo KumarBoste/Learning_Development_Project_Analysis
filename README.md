@@ -12,7 +12,7 @@ It aims to transform L&D from a perceived cost center into a strategic investmen
 - Total Records: 126,000
 - Key Dimensions: Department, Role, ProgramName, DeliveryMode
 - Key Metrics: Salary, TrainingHours, PerformanceGain, ROI, EngagementScore, InstructorRating
-- 
+
 ## 2. Business Problem
 **L&D departments often struggle to:**
 - Prove tangible ROI of training programs.
