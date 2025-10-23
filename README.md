@@ -14,7 +14,7 @@ It aims to transform L&D from a perceived cost center into a strategic investmen
 - Key Metrics: Salary, TrainingHours, PerformanceGain, ROI, EngagementScore, InstructorRating
 - 
 ## 2. Business Problem
-L&D departments often struggle to:
+**L&D departments often struggle to:**
 - Prove tangible ROI of training programs.
 - Link training outcomes to employee performance improvement.
 - Optimize budget allocation across departments and programs.
