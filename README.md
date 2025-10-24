@@ -22,7 +22,7 @@ It aims to transform L&D from a perceived cost center into a strategic investmen
 - Link training outcomes to employee performance improvement.
 - Optimize budget allocation across departments and programs.
 
-**Business Questions to Answer** :
+**Business Questions to Answers** :
 1. Which departments and programs yield the highest ROI?
 2. How does training effectiveness (PerformanceGain) vary by program, delivery mode, and difficulty?
 3. Does employee engagement correlate with post-training performance?
